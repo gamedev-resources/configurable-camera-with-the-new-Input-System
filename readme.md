@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/make-a-configurable-camera-with-the-new-unity-input-system/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # How to make a configurable camera with the new Unity Input System
 > This tutorial was created with Unity version 2019.2.
